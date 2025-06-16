@@ -1,4 +1,4 @@
-rembg
+rembg==2.0.40
 fastapi
 uvicorn
 python-multipart
