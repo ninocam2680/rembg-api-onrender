@@ -2,3 +2,4 @@ rembg
 fastapi
 uvicorn
 python-multipart
+onnxruntime
